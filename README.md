@@ -27,7 +27,6 @@ Open the notebook, run all cells.
 * [scikit-learn](https://scikit-learn.org/stable/) - Used for machine learning model
 * [nflscrapR](https://github.com/ryurko/nflscrapR-data) - Data source used
 
-. 
 
 ## Co-authors
 
