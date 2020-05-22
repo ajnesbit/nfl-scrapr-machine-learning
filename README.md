@@ -1,5 +1,9 @@
 # NFL model for predicting outcomes of contests
 
+## Objective
+
+The goal of this project is to find out which moving average statistics provide the best results for predicting outcomes of contests for their upcoming game. The intention of this is to apply the code to the upcoming season and analyze the results of the model in real time.
+
 ## Getting Started
 
 These instructions will help run the model (contained in the .ipynb file)
