@@ -1,4 +1,4 @@
-# NFL model for predicting outcomes of contests
+# NFL model for predicting game outcomes
 
 ## Objective
 
